@@ -44,3 +44,7 @@ ABOUT THE AUTHOR
 I'm a web enthusiast located in Germany and in charge of http://www.titaniumcontrols.com
 
 Follow me on twitter: @marcelpociot / @TitaniumCTRLs
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mpociot/tiimmappswitcher/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
